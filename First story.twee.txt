@@ -1,0 +1,32 @@
+:: StoryTitle
+First story
+
+
+:: StoryData
+{
+  "ifid": "CD508B40-EA2B-4F23-AC69-0BCC3AF87CAA",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "The First Step",
+  "zoom": 1
+}
+
+
+:: The First Step {"position":"550,300","size":"100,100"}
+times like this remind me of the [[future]] , [[past]].
+
+
+:: dog {"position":"675,550","size":"100,100"}
+
+
+
+:: future {"position":"550,425","size":"100,100"}
+i can already see my [[grandchild]] [[dog]], running through the fields at the back of my house.
+
+
+:: grandchild {"position":"550,550","size":"100,100"}
+
+
+
+:: past {"position":"675,425","size":"100,100"}
+
